@@ -1,3 +1,5 @@
+# A Cool weather app
+- Website live at [Weather App](https://cool-weather-app-ss.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
